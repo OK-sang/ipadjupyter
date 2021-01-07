@@ -12,4 +12,3 @@ dependencies:
     - lifelines
     - seaborn
     - statsmodels
-    - itertools
